@@ -583,6 +583,7 @@
   }
 
   .section2_title_box > p {
+    width: 100%;
     padding: 0 12px;
     font-size: 20px;
     font-weight: 500;

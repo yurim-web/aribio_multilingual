@@ -274,6 +274,7 @@ section {
   justify-content: space-between;
 }
 .section2_title_box > p {
+  width: 60%;
   color: #3c3c3c;
   text-align: right;
   font-family: Pretendard;
